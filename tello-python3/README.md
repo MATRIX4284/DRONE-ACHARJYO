@@ -4,6 +4,24 @@ Write the command set to be run in command.txt, for example:：
 ```
 command
 takeoff
+up 20
+down 20
+left 50
+right 50
+forward 20
+back 20
+cw 90
+ccw 90
+flip l
+flip r
+flip f
+flip b
+flip f
+flip bl
+flip rb
+flip fl
+flip fr
+delay 2
 land
 ```
 ## Step2
