@@ -1,6 +1,6 @@
 #tello-test
 ## Step1
-Write the command set to be run in command.txt, for example:
+Write the command set to be run in command.txt.The Commands will be executed i the sequnce they are nentioned in the file. The sequence of commands used here: 
 ```
 command
 takeoff
