@@ -1,4 +1,4 @@
-# Single_Tello_Test
+#tello-test
 ## Step1
 Write the command set to be run in command.txt, for example:：
 ```
@@ -7,12 +7,6 @@ takeoff
 land
 ```
 ## Step2
-The script will automatically send a command to Tello. After receiving the reply from the previous command, the next command will be sent immediately.
-To add a delay, you can use the Delay command and the script will automatically delay. The unit of delay is seconds, which can be given to decimals.
-```
-delay 5
-```
-## Step3
 Run the script
 ```
 python3 tello_test.py command.txt
