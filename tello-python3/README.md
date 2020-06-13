@@ -1,6 +1,6 @@
 #tello-test
 ## Step1
-Write the command set to be run in command.txt, for example:：
+Write the command set to be run in command.txt, for example:
 ```
 command
 takeoff
